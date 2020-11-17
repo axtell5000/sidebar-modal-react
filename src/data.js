@@ -15,31 +15,31 @@ export const links = [
   {
     id: 1,
     url: '/',
-    text: 'home',
+    text: 'Home',
     icon: <FaHome />,
   },
   {
     id: 2,
     url: '/team',
-    text: 'team',
+    text: 'Team',
     icon: <FaUserFriends />,
   },
   {
     id: 3,
     url: '/projects',
-    text: 'projects',
+    text: 'Projects',
     icon: <FaFolderOpen />,
   },
   {
     id: 4,
     url: '/calendar',
-    text: 'calendar',
+    text: 'Calendar',
     icon: <FaCalendarAlt />,
   },
   {
     id: 5,
     url: '/documents',
-    text: 'documents',
+    text: 'Documents',
     icon: <FaWpforms />,
   },
 ];
@@ -49,25 +49,30 @@ export const social = [
     id: 1,
     url: 'https://www.twitter.com',
     icon: <FaFacebook />,
+    title: 'Facebook'
   },
   {
     id: 2,
     url: 'https://www.twitter.com',
     icon: <FaTwitter />,
+    title: 'Twitter'
   },
   {
     id: 3,
     url: 'https://www.twitter.com',
     icon: <FaLinkedin />,
+    title: 'LinkedIn'
   },
   {
     id: 4,
     url: 'https://www.twitter.com',
     icon: <FaBehance />,
+    title: 'Behance'
   },
   {
     id: 5,
     url: 'https://www.twitter.com',
     icon: <FaSketch />,
+    title: 'Sketch'
   },
 ];
